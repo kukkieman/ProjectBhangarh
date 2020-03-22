@@ -1,0 +1,1058 @@
+﻿Log file open, 02/24/20 23:28:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: finalmain
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.066719
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: F:/epic games/unreal/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/unreal project/finalmain/Saved/Config/Windows/Engine.ini]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/unreal project/finalmain/Saved/Config/Windows/Engine.ini]
+[2020.02.24-17.58.31:017][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/unreal project/finalmain/Saved/Config/Windows/Engine.ini]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.24-17.58.31:017][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/unreal project/finalmain/Saved/Config/Windows/Engine.ini]
+[2020.02.24-17.58.31:017][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.24-17.58.31:018][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/unreal project/finalmain/Saved/Config/Windows/Engine.ini]
+[2020.02.24-17.58.31:018][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/unreal project/finalmain/Saved/Config/Windows/Engine.ini]
+[2020.02.24-17.58.31:020][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.24-17.58.31:020][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.24-17.58.31:021][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.24-17.58.31:021][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.24-17.58.31:021][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.24-17.58.31:023][  0]LogHAL: Display: Platform has ~ 8 GB [8482713600 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.24-17.58.31:023][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.24-17.58.31:023][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.02.24-17.58.31:023][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.24-17.58.31:024][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [D:/unreal project/finalmain/Saved/Config/Windows/Scalability.ini]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.24-17.58.31:025][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/unreal project/finalmain/Saved/Config/Windows/Engine.ini]
+[2020.02.24-17.58.31:025][  0]LogInit: Computer: PC
+[2020.02.24-17.58.31:025][  0]LogInit: User: Vibhu
+[2020.02.24-17.58.31:025][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.24-17.58.31:025][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.24-17.58.31:025][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.02.24-17.58.31:025][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.24-17.58.31:025][  0]LogMemory: Process Physical Memory: 104.59 MB used, 104.59 MB peak
+[2020.02.24-17.58.31:025][  0]LogMemory: Process Virtual Memory: 100.57 MB used, 100.57 MB peak
+[2020.02.24-17.58.31:025][  0]LogMemory: Physical Memory: 6107.88 MB used,  1981.86 MB free, 8089.75 MB total
+[2020.02.24-17.58.31:025][  0]LogMemory: Virtual Memory: 5137.46 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.02.24-17.58.31:029][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.24-17.58.31:052][  0]LogInit: Using OS detected language (en-US).
+[2020.02.24-17.58.31:052][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.24-17.58.31:053][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.24-17.58.31:209][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.24-17.58.31:231][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.24-17.58.31:231][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.24-17.58.31:425][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.24-17.58.31:425][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.24-17.58.31:425][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.24-17.58.31:425][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.24-17.58.31:464][  0]LogD3D11RHI:    0. 'Radeon (TM) 530' (Feature Level 11_0)
+[2020.02.24-17.58.31:464][  0]LogD3D11RHI:       4086/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.02.24-17.58.31:502][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.02.24-17.58.31:502][  0]LogD3D11RHI:       128/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.24-17.58.31:505][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.24-17.58.31:505][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.24-17.58.31:505][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.24-17.58.31:528][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.24-17.58.31:528][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.24-17.58.31:528][  0]LogWindows: EnumDisplayDevices:
+[2020.02.24-17.58.31:529][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.02.24-17.58.31:529][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.02.24-17.58.31:529][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.02.24-17.58.31:529][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.24-17.58.31:529][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) 530
+[2020.02.24-17.58.31:529][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.24-17.58.31:529][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.24-17.58.31:529][  0]LogRHI: Texture pool is 2860 MB (70% of 4086 MB)
+[2020.02.24-17.58.31:574][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.02.24-17.58.31:574][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.24-17.58.31:589][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.02.24-17.58.32:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.24-17.58.32:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.24-17.58.32:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.24-17.58.32:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.24-17.58.32:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.24-17.58.32:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.24-17.58.32:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.24-17.58.32:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.24-17.58.32:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.24-17.58.32:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.24-17.58.32:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.24-17.58.32:150][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.24-17.58.32:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.24-17.58.32:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.24-17.58.32:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.24-17.58.32:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.24-17.58.32:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.24-17.58.32:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.24-17.58.32:195][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.24-17.58.32:200][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.24-17.58.32:224][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (D:/unreal project/finalmain/Intermediate/Shaders/WorkingDirectory/33816/).
+[2020.02.24-17.58.32:224][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Vibhu/AppData/Local/Temp/UnrealShaderWorkingDir/0C6BF2F64FFA10DFE8F7E2B9C2F05458/'.
+[2020.02.24-17.58.32:225][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.24-17.58.32:225][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.24-17.58.32:225][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.24-17.58.33:080][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.24-17.58.33:151][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Vibhu/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.24-17.58.33:151][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Vibhu/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.24-17.58.33:151][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/unreal project/finalmain/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.24-17.58.33:151][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.24-17.58.33:152][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/unreal project/finalmain/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.24-17.58.33:152][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.24-17.58.33:164][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.24-17.58.33:164][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.24-17.58.33:164][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.24-17.58.33:166][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Vibhu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.24-17.58.33:166][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.24-17.58.33:166][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.24-17.58.33:194][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.24-17.58.33:196][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.24-17.58.33:197][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.24-17.58.33:251][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.02.24-17.58.33:582][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.24-17.58.33:748][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.24-17.58.33:748][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.24-17.58.33:748][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.24-17.58.33:748][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.24-17.58.33:748][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.24-17.58.33:763][  0]LogNetVersion: finalmain 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2041292578)
+[2020.02.24-17.58.34:851][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036272 seconds
+[2020.02.24-17.58.34:860][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.24-17.58.34:860][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.24-17.58.34:860][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.24-17.58.35:269][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.24-17.58.35:271][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.24-17.58.35:325][  0]SourceControl: Source control is disabled
+[2020.02.24-17.58.35:325][  0]SourceControl: Source control is disabled
+[2020.02.24-17.58.35:326][  0]SourceControl: Source control is disabled
+[2020.02.24-17.58.35:327][  0]SourceControl: Source control is disabled
+[2020.02.24-17.58.35:328][  0]SourceControl: Source control is disabled
+[2020.02.24-17.58.35:403][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.24-17.58.35:416][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.24-17.58.35:416][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.24-17.58.35:502][  0]LogOcInput: OculusInput pre-init called
+[2020.02.24-17.58.35:511][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.24-17.58.35:511][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.24-17.58.35:581][  0]LogEngine: Initializing Engine...
+[2020.02.24-17.58.35:582][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.24-17.58.35:583][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.24-17.58.35:965][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.24-17.58.35:972][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.24-17.58.36:019][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.24-17.58.36:019][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.24-17.58.36:019][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.24-17.58.36:019][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.24-17.58.36:019][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.24-17.58.36:019][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.24-17.58.36:019][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.24-17.58.36:019][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.24-17.58.36:020][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.24-17.58.36:020][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.24-17.58.36:035][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.24-17.58.36:035][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.02.24-17.58.36:035][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.24-17.58.36:035][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.24-17.58.36:035][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.24-17.58.36:035][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.24-17.58.36:035][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.24-17.58.36:035][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.24-17.58.36:035][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.24-17.58.36:128][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.02.24-17.58.36:134][  0]LogInit: FAudioDevice initialized.
+[2020.02.24-17.58.36:134][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.24-17.58.36:253][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Vibhu/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.24-17.58.36:258][  0]LogInit: Texture streaming: Enabled
+[2020.02.24-17.58.36:270][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.24-17.58.36:270][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.24-17.58.36:276][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.24-17.58.36:312][  0]LogInit: Transaction tracking system initialized
+[2020.02.24-17.58.36:320][  0]BlueprintLog: New page: Editor Load
+[2020.02.24-17.58.36:351][  0]LocalizationService: Localization service is disabled
+[2020.02.24-17.58.37:549][  0]LogFileCache: Scanning file cache for directory 'D:/unreal project/finalmain/Content/' took 0.01s
+[2020.02.24-17.58.37:549][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.24-17.58.37:549][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.24-17.58.38:236][  0]SourceControl: Source control is disabled
+[2020.02.24-17.58.38:236][  0]Cmd: MAP LOAD FILE="D:/unreal project/finalmain/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.24-17.58.38:236][  0]LightingResults: New page: Lighting Build
+[2020.02.24-17.58.38:237][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.24-17.58.38:237][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-17.58.38:237][  0]MapCheck: New page: Map Check
+[2020.02.24-17.58.38:237][  0]LightingResults: New page: Lighting Build
+[2020.02.24-17.58.38:263][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.24-17.58.38:351][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'crouch' for  InputAction crouch
+[2020.02.24-17.58.38:352][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'sprint' for  InputAction sprint
+[2020.02.24-17.58.38:596][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.24-17.58.38:605][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.24-17.58.38:634][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.24-17.58.38:635][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.24-17.58.38:635][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2020.02.24-17.58.38:635][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.399
+[2020.02.24-17.58.38:808][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-17.58.38:815][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-17.58.38:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-17.58.38:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-17.58.38:933][  0]LogCollectionManager: Loaded 0 collections in 0.000814 seconds
+[2020.02.24-17.58.38:946][  0]LogFileCache: Scanning file cache for directory 'D:/unreal project/finalmain/Saved/Collections/' took 0.00s
+[2020.02.24-17.58.38:946][  0]LogFileCache: Scanning file cache for directory 'D:/unreal project/finalmain/Content/Developers/Vibhu/Collections/' took 0.00s
+[2020.02.24-17.58.38:946][  0]LogFileCache: Scanning file cache for directory 'D:/unreal project/finalmain/Content/Collections/' took 0.00s
+[2020.02.24-17.58.38:946][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 3017 classes and 720 folders.
+[2020.02.24-17.58.38:948][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.24-17.58.38:999][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.24-17.58.39:056][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.24-17.58.39:058][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.24-17.58.39:123][  0]LogRenderer: Reallocating scene render targets to support 848x704 Format 9 NumSamples 1 (Frame:1).
+[2020.02.24-17.58.39:363][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.24-17.58.39:363][  0]LogLoad: (Engine Initialization) Total time: 9.57 seconds
+[2020.02.24-17.58.39:363][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.24-17.58.39:421][  0]LogAssetRegistry: Asset discovery search completed in 6.1712 seconds
+[2020.02.24-17.58.39:426][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.02.24-17.58.39:427][  0]LogContentStreaming: Texture pool size now 600 MB
+[2020.02.24-17.59.00:044][440]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.24-17.59.00:100][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-17.59.00:133][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.24-17.59.00:144][440]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 25, 2020, 4:59:00 AM)
+[2020.02.24-17.59.00:159][440]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.24-17.59.00:175][440]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.24-17.59.00:261][440]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.24-17.59.00:283][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021990s)
+[2020.02.24-17.59.00:290][440]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.24-17.59.00:290][440]LogPlayLevel: PIE: World Init took: (0.006944s)
+[2020.02.24-17.59.00:290][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029342s)
+[2020.02.24-17.59.00:313][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.24-17.59.00:320][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.24-17.59.00:320][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.24-17.59.00:320][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.24-17.59.00:320][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.24-17.59.00:320][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.24-17.59.00:320][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.24-17.59.00:320][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.24-17.59.00:320][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.24-17.59.00:321][440]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.24-17.59.00:321][440]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.24-17.59.00:328][440]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.24-17.59.00:328][440]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.02.24-17.59.00:328][440]LogAudioMixer: Display: Is Default: Yes
+[2020.02.24-17.59.00:328][440]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.24-17.59.00:328][440]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.24-17.59.00:328][440]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.24-17.59.00:328][440]LogAudioMixer: Display: Channel Order:
+[2020.02.24-17.59.00:328][440]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.24-17.59.00:328][440]LogAudioMixer: Display: 1: FrontRight
+[2020.02.24-17.59.00:410][440]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.02.24-17.59.00:412][440]LogInit: FAudioDevice initialized.
+[2020.02.24-17.59.00:636][440]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.24-17.59.00:758][440]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.24-23.29.00
+[2020.02.24-17.59.00:767][440]LogWorld: Bringing up level for play took: 0.010073
+[2020.02.24-17.59.00:769][440]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.02.24-17.59.01:047][440]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.02.24-17.59.01:166][440]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.879
+[2020.02.24-17.59.01:167][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-17.59.35:318][475]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.24-17.59.35:322][475]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.24-17.59.35:341][475]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.24-17.59.35:341][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-17.59.35:508][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-17.59.35:508][475]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.24-17.59.35:508][475]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.24-17.59.35:508][475]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.24-17.59.35:508][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-17.59.35:520][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.24-17.59.35:521][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-17.59.35:525][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-17.59.35:548][475]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.24-17.59.35:557][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-17.59.35:559][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.24-17.59.35:595][476]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.02.24-17.59.36:936][554]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.24-17.59.36:946][554]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.24-17.59.44:479][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/bob01': Can't find file.
+[2020.02.24-17.59.44:479][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/bob01': Can't find file.
+[2020.02.24-17.59.44:479][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/female_casualsuit02': Can't find file.
+[2020.02.24-17.59.44:479][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/female_casualsuit02': Can't find file.
+[2020.02.24-17.59.44:479][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/high-poly': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/high-poly': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/main': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/main': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/bob01': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/bob01': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/female_casualsuit02': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/female_casualsuit02': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/high-poly': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/high-poly': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/main': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/main': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_PhysicsAsset': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_PhysicsAsset': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_Skeleton': Can't find file.
+[2020.02.24-17.59.44:480][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_Skeleton': Can't find file.
+[2020.02.24-17.59.44:481][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_PhysicsAsset': Can't find file.
+[2020.02.24-17.59.44:481][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_PhysicsAsset': Can't find file.
+[2020.02.24-17.59.44:481][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_Skeleton': Can't find file.
+[2020.02.24-17.59.44:481][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_Skeleton': Can't find file.
+[2020.02.24-17.59.44:481][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_Skeleton': Can't find file.
+[2020.02.24-17.59.44:481][999]LoadErrors: Failed to load /Game/ThirdPersonBP/ThirdPersonExampleMap_Skeleton.ThirdPersonExampleMap_Skeleton Referenced by ThirdPersonExampleMap
+[2020.02.24-17.59.44:481][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_Skeleton': Can't find file.
+[2020.02.24-17.59.44:481][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_PhysicsAsset': Can't find file.
+[2020.02.24-17.59.44:481][999]LoadErrors: Failed to load /Game/ThirdPersonBP/ThirdPersonExampleMap_PhysicsAsset.ThirdPersonExampleMap_PhysicsAsset Referenced by ThirdPersonExampleMap
+[2020.02.24-17.59.44:482][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/ThirdPersonExampleMap_PhysicsAsset': Can't find file.
+[2020.02.24-17.59.44:482][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/main': Can't find file.
+[2020.02.24-17.59.44:482][999]LoadErrors: Failed to load /Game/ThirdPersonBP/main.main Referenced by ThirdPersonExampleMap
+[2020.02.24-17.59.44:482][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/main': Can't find file.
+[2020.02.24-17.59.44:482][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/bob01': Can't find file.
+[2020.02.24-17.59.44:482][999]LoadErrors: Failed to load /Game/ThirdPersonBP/bob01.bob01 Referenced by ThirdPersonExampleMap
+[2020.02.24-17.59.44:482][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/bob01': Can't find file.
+[2020.02.24-17.59.44:482][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/high-poly': Can't find file.
+[2020.02.24-17.59.44:482][999]LoadErrors: Failed to load /Game/ThirdPersonBP/high-poly.high-poly Referenced by ThirdPersonExampleMap
+[2020.02.24-17.59.44:482][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/high-poly': Can't find file.
+[2020.02.24-17.59.44:482][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/female_casualsuit02': Can't find file.
+[2020.02.24-17.59.44:482][999]LoadErrors: Failed to load /Game/ThirdPersonBP/female_casualsuit02.female_casualsuit02 Referenced by ThirdPersonExampleMap
+[2020.02.24-17.59.44:483][999]LogLinker: Warning: While loading 'D:/unreal project/finalmain/Content/ThirdPersonBP/ThirdPersonExampleMap.uasset' failed to load '/Game/ThirdPersonBP/female_casualsuit02': Can't find file.
+[2020.02.24-17.59.44:560][999]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.24-17.59.44:585][999]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.24-17.59.47:487][999]LogSlate: Window 'Message' being destroyed
+[2020.02.24-17.59.47:708][999]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.02.24-17.59.50:224][999]LogSlate: Window 'Choose Skeleton' being destroyed
+[2020.02.24-17.59.51:300][999]LogSlate: Window 'Message' being destroyed
+[2020.02.24-17.59.51:370][999]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:374][  0]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:391][  1]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:409][  2]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:426][  3]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:443][  4]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:459][  5]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:476][  6]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:492][  7]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:508][  8]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:524][  9]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:541][ 10]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:559][ 11]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:576][ 12]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:593][ 13]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:609][ 14]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:625][ 15]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:642][ 16]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:658][ 17]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:676][ 18]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:692][ 19]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:709][ 20]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:725][ 21]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:742][ 22]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:759][ 23]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:775][ 24]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:793][ 25]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:809][ 26]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:825][ 27]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:842][ 28]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:859][ 29]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:876][ 30]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:892][ 31]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:909][ 32]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:925][ 33]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:942][ 34]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:958][ 35]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:976][ 36]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.51:992][ 37]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:009][ 38]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:025][ 39]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:043][ 40]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:061][ 41]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:076][ 42]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:093][ 43]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:109][ 44]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:126][ 45]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:143][ 46]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:160][ 47]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:177][ 48]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:195][ 49]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:210][ 50]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:226][ 51]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:242][ 52]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:258][ 53]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:275][ 54]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:309][ 56]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:325][ 57]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:342][ 58]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:358][ 59]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:375][ 60]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:391][ 61]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:408][ 62]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.52:425][ 63]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:546][129]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:562][130]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:579][131]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:596][132]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:613][133]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:629][134]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:646][135]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:663][136]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:679][137]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:696][138]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:713][139]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:729][140]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:746][141]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:762][142]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:779][143]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:796][144]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:815][145]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:844][146]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:862][147]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:877][148]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:896][149]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:912][150]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:927][151]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:944][152]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:961][153]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:977][154]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.53:994][155]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.54:011][156]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.54:028][157]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.54:043][158]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.54:060][159]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.54:077][160]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.54:094][161]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.54:110][162]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.54:127][163]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.54:144][164]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-17.59.54:949][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.24-17.59.55:870][209]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.02.24-17.59.57:645][209]LogSlate: Took 0.025538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.24-17.59.58:049][210]LogSlate: Took 0.001210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.24-18.00.20:771][457]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.24-18.00.20:780][457]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'crouch' for  InputAction crouch
+[2020.02.24-18.00.20:781][457]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'sprint' for  InputAction sprint
+[2020.02.24-18.00.21:371][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.24-18.00.30:604][  0]LogRenderer: Reallocating scene render targets to support 948x704 Format 9 NumSamples 1 (Frame:1).
+[2020.02.24-18.00.37:323][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/unreal project/finalmain/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.02.24-18.00.37:419][384]LogSavePackage: Moving 'D:/unreal project/finalmain/Saved/ThirdPersonCharacter708BAB594C876CCE209E43BE83F23826.tmp' to 'D:/unreal project/finalmain/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.24-18.00.37:440][384]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.24-18.00.37:440][384]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.24-18.00.38:537][449]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.02.24-18.00.38:554][449]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.24-18.00.38:554][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-18.00.41:371][604]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/character/character_mvp.character_mvp
+[2020.02.24-18.00.41:661][604]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.24-18.00.42:320][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.02.24-18.00.42:386][604]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.02.24-18.00.43:087][604]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.02.24-18.00.44:235][604]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.02.24-18.00.53:279][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/character/character_mvp" FILE="D:/unreal project/finalmain/Content/ThirdPersonBP/Blueprints/character/character_mvp.uasset" SILENT=true
+[2020.02.24-18.00.53:341][125]LogSavePackage: Moving 'D:/unreal project/finalmain/Saved/character_mvpD8A3DF55431C33B6A1D496B6F9135DA4.tmp' to 'D:/unreal project/finalmain/Content/ThirdPersonBP/Blueprints/character/character_mvp.uasset'
+[2020.02.24-18.00.53:361][125]AssetCheck: New page: Asset Save: character_mvp
+[2020.02.24-18.00.53:361][125]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/character/character_mvp.character_mvp
+[2020.02.24-18.01.25:913][997]LogSlate: Window 'character_mvp' being destroyed
+[2020.02.24-18.01.25:939][997]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.02.24-18.01.25:939][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-18.01.25:954][997]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.24-18.01.25:954][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-18.01.26:199][997]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.24-18.01.26:199][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-18.01.35:822][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.24-18.02.49:045][251]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.24-18.02.50:520][335]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.02.24-18.02.51:110][335]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.02.24-18.02.52:243][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="D:/unreal project/finalmain/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.02.24-18.02.52:304][392]LogSavePackage: Moving 'D:/unreal project/finalmain/Saved/ThirdPersonCharacter7DC7180C4195D6BCA1B607BC638D0F54.tmp' to 'D:/unreal project/finalmain/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.02.24-18.02.52:321][392]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.02.24-18.02.52:321][392]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.02.24-18.02.53:120][438]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.02.24-18.02.53:140][438]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.24-18.02.53:140][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-18.02.55:182][555]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.24-18.02.55:189][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-18.02.55:189][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.24-18.02.55:189][555]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 25, 2020, 5:02:55 AM)
+[2020.02.24-18.02.55:189][555]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.24-18.02.55:209][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019178s)
+[2020.02.24-18.02.55:210][555]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.24-18.02.55:210][555]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2020.02.24-18.02.55:210][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020964s)
+[2020.02.24-18.02.55:313][555]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.02.24-18.02.55:314][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.24-18.02.55:314][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.24-18.02.55:314][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.24-18.02.55:314][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.24-18.02.55:314][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.24-18.02.55:314][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.24-18.02.55:314][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.24-18.02.55:314][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.24-18.02.55:315][555]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.24-18.02.55:315][555]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.24-18.02.55:324][555]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.24-18.02.55:324][555]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.02.24-18.02.55:324][555]LogAudioMixer: Display: Is Default: Yes
+[2020.02.24-18.02.55:324][555]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.24-18.02.55:324][555]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.24-18.02.55:324][555]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.24-18.02.55:324][555]LogAudioMixer: Display: Channel Order:
+[2020.02.24-18.02.55:324][555]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.24-18.02.55:324][555]LogAudioMixer: Display: 1: FrontRight
+[2020.02.24-18.02.55:408][555]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.02.24-18.02.55:410][555]LogInit: FAudioDevice initialized.
+[2020.02.24-18.02.55:416][555]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.24-18.02.55:418][555]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.24-23.32.55
+[2020.02.24-18.02.55:418][555]LogWorld: Bringing up level for play took: 0.001111
+[2020.02.24-18.02.55:419][555]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.02.24-18.02.55:420][555]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.133
+[2020.02.24-18.02.55:421][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-18.03.25:859][378]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.24-18.03.25:873][378]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.24-18.03.25:892][378]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.24-18.03.25:892][378]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-18.03.25:892][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-18.03.25:892][378]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.24-18.03.25:892][378]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.24-18.03.25:892][378]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.24-18.03.25:892][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-18.03.25:903][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.24-18.03.25:904][378]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-18.03.25:907][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-18.03.25:936][378]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.24-18.03.25:941][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-18.03.25:947][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.02.24-18.03.25:965][379]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.24-18.03.37:496][ 56]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.24-18.03.55:388][  2]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:404][  3]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:422][  4]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:438][  5]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:455][  6]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:472][  7]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:488][  8]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:505][  9]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:521][ 10]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:538][ 11]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:555][ 12]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:572][ 13]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:589][ 14]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:605][ 15]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:623][ 16]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:639][ 17]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:655][ 18]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:672][ 19]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:688][ 20]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:705][ 21]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:722][ 22]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:738][ 23]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:755][ 24]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:772][ 25]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:788][ 26]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:805][ 27]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:822][ 28]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:838][ 29]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:855][ 30]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:872][ 31]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:888][ 32]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:905][ 33]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:922][ 34]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:939][ 35]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:955][ 36]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:972][ 37]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.55:988][ 38]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:005][ 39]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:022][ 40]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:041][ 41]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:055][ 42]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:077][ 43]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:102][ 44]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:123][ 45]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:153][ 46]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:170][ 47]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:186][ 48]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:203][ 49]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:219][ 50]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:237][ 51]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:253][ 52]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:273][ 53]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:287][ 54]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:304][ 55]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:321][ 56]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:337][ 57]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:353][ 58]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:370][ 59]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:386][ 60]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:403][ 61]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:419][ 62]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:436][ 63]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:453][ 64]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:469][ 65]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:486][ 66]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:503][ 67]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:520][ 68]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:537][ 69]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:552][ 70]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:569][ 71]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:586][ 72]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.03.56:603][ 73]LogAnimation: Warning: SkeletalMesh ThirdPersonExampleMap has no skeleton. This needs to fixed before an animation can be set
+[2020.02.24-18.04.52:608][355]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.24-18.04.52:616][355]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-18.04.52:616][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.24-18.04.52:616][355]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 25, 2020, 5:04:52 AM)
+[2020.02.24-18.04.52:616][355]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.24-18.04.52:635][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018686s)
+[2020.02.24-18.04.52:637][355]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.24-18.04.52:637][355]LogPlayLevel: PIE: World Init took: (0.001794s)
+[2020.02.24-18.04.52:637][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020735s)
+[2020.02.24-18.04.52:677][355]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.02.24-18.04.52:684][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.24-18.04.52:684][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.24-18.04.52:684][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.24-18.04.52:685][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.24-18.04.52:685][355]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.24-18.04.52:685][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.24-18.04.52:685][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.24-18.04.52:685][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.24-18.04.52:685][355]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.24-18.04.52:685][355]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.24-18.04.52:695][355]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.24-18.04.52:695][355]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.02.24-18.04.52:695][355]LogAudioMixer: Display: Is Default: Yes
+[2020.02.24-18.04.52:695][355]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.24-18.04.52:695][355]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.24-18.04.52:695][355]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.24-18.04.52:695][355]LogAudioMixer: Display: Channel Order:
+[2020.02.24-18.04.52:695][355]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.24-18.04.52:695][355]LogAudioMixer: Display: 1: FrontRight
+[2020.02.24-18.04.52:786][355]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.02.24-18.04.52:788][355]LogInit: FAudioDevice initialized.
+[2020.02.24-18.04.52:795][355]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.24-18.04.52:797][355]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.02.24-23.34.52
+[2020.02.24-18.04.52:797][355]LogWorld: Bringing up level for play took: 0.001165
+[2020.02.24-18.04.52:797][355]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.02.24-18.04.52:889][355]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.399
+[2020.02.24-18.04.52:889][355]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-18.05.02:017][899]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.24-18.05.02:022][899]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.24-18.05.02:042][899]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.24-18.05.02:042][899]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-18.05.02:043][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-18.05.02:043][899]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.24-18.05.02:043][899]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.24-18.05.02:043][899]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.24-18.05.02:043][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-18.05.02:053][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.24-18.05.02:053][899]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.24-18.05.02:057][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.24-18.05.02:089][899]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.24-18.05.02:095][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.24-18.05.02:099][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.02.24-18.05.02:118][900]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.24-18.06.57:414][785]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.06.57:917][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.06.58:416][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.06.58:916][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.06.59:417][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.06.59:916][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.00:417][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.00:916][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.01:417][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.01:916][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.02:417][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.02:915][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.03:417][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.03:917][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.04:417][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.06:280][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.06:280][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.06:280][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.06:416][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.06:917][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.07:703][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.07:917][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.08:417][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.08:917][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.24-18.07.11:818][786]LogD3D11RHI: Error: Failed to create shader resource view for buffer: ByteWidth=48 NumElements=12 Format=R32_FLOAT
+[2020.02.24-18.07.11:976][786]LogD3D11RHI: Error: Direct3DDevice->CreateShaderResourceView failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11UAV.cpp:256 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.02.24-18.07.11:976][786]LogD3D11RHI: [Aftermath] GDynamicRHI=0000023CEFE180C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.02.24-18.07.12:181][786]LogWindows: Windows GetLastError: The operation completed successfully. (0)
